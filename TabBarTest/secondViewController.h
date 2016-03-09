@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  secondViewController.h
 //  TabBarTest
 //
 //  Created by ecar on 15/8/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface secondViewController : UIViewController
 
 @end
-
